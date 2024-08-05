@@ -1,0 +1,156 @@
+**Gear Setup:**
+
+1. **Group Healing Setup (Mythic):**
+   - **Head:** Stonekeeper / Grothdarr (Heavy, Reinforced, Health)
+   - **Shoulders:** Stonekeeper / Grothdarr (Heavy, Reinforced, Health)
+   - **Chest:** Bloodlord’s Embrace (Heavy, Reinforced, Health)
+   - **Waist:** Winter’s Respite (Light, Sturdy, Health)
+   - **Hands:** Leeching Plate (Heavy, Sturdy, Health)
+   - **Legs:** Leeching Plate (Heavy, Sturdy, Health)
+   - **Feet:** Leeching Plate (Heavy, Sturdy, Health)
+   - **Ring 1:** Winter’s Respite (Jewelry, Infused / Healthy, Magicka Recovery)
+   - **Ring 2:** Winter’s Respite (Jewelry, Healthy, Magicka Recovery)
+   - **Necklace:** Winter’s Respite (Jewelry, Healthy, Magicka Recovery)
+   - **Weapon 1:** Leeching Plate (1 Handed, Charged, Poison)
+   - **Weapon 2:** Leeching Plate (Shield, Reinforced, Stamina / Health)
+   - **Weapon 3:** Winter’s Respite (1 Handed, Defending / Charged, Damage Shield / Crusher)
+   - **Weapon 4:** Leeching Plate (Shield, Reinforced, Stamina / Health)
+
+2. **Group Empower Setup (Mythic):**
+   - **Head:** Aegis Of Galenwe (Heavy, Reinforced, Health)
+   - **Shoulders:** Lord Warden (Heavy, Reinforced, Health)
+   - **Chest:** Bloodlord’s Embrace (Heavy, Sturdy, Health)
+   - **Waist:** Aegis Of Galenwe (Heavy, Sturdy, Health)
+   - **Hands:** Leeching Plate (Heavy, Sturdy, Health)
+   - **Legs:** Leeching Plate (Heavy, Sturdy, Health)
+   - **Feet:** Leeching Plate (Heavy, Sturdy, Health)
+   - **Ring 1:** Aegis Of Galenwe (Jewelry, Infused / Healthy, Magicka Recovery)
+   - **Ring 2:** Aegis Of Galenwe (Jewelry, Healthy, Magicka Recovery)
+   - **Necklace:** Aegis Of Galenwe (Jewelry, Healthy, Magicka Recovery)
+   - **Weapon 1:** Leeching Plate (1 Handed, Charged, Poison)
+   - **Weapon 2:** Leeching Plate (Shield, Reinforced, Stamina / Health)
+   - **Weapon 3:** Leeching Plate (1 Handed, Defending / Charged, Damage Shield / Crusher)
+   - **Weapon 4:** Leeching Plate (Shield, Reinforced, Stamina / Health)
+
+**Champion Points Setup:**
+
+1. **Warfare (Blue) Slotables:**
+   - Ironclad
+   - Duellist’s Rebuff
+   - Bulwark / Enduring Resolve
+   - From The Brink
+
+2. **Fitness (Red) Slotables:**
+   - Boundless Vitality
+   - Fortified
+   - Strategic Reserve
+   - Rejuvenation
+
+**Skills:**
+
+1. **Front Bar (One Hand & Shield):**
+   - Pierce Armor
+   - Heroic Slash
+   - Igneous Shield
+   - Green Dragon Blood
+   - Defensive Stance
+
+2. **Back Bar (Two-Handed):**
+   - Blood Altar
+   - Stone Giant
+   - Hardened Armor
+   - Choking Talons
+   - Magma Shell (Ultimate)
+
+**Traits:**
+   - **Gear Traits:**
+     - Reinforced (for armor pieces to increase resistances)
+     - Sturdy (for armor pieces to reduce block cost)
+   - **Weapon Traits:**
+     - Charged (for main-hand weapon to increase chance of applying status effects)
+     - Defending (for back-bar weapon to increase resistances)
+   - **Jewelry Traits:**
+     - Infused / Healthy (for rings and necklaces to increase recovery or health as needed)
+
+**Clips to include in guide/video:**
+   - Demonstration of gear setup and switching between setups.
+   - Rotation and skill usage during a boss fight.
+   - How to manage resources with heavy attacks and synergies.
+   - Blocking and avoiding boss mechanics.
+   - Examples of ultimate generation and usage.
+   - Demonstration of Champion Points setup and swapping slotables for different encounters.
+   - Showcasing how to use crafting traits and their importance for the build.
+
+https://xynodegaming.com/almost-immortal-warrior/
+
+///
+
+
+**Never Dying PvP Dragonknight Tank Build for Cyrodiil**
+
+**Gear Setup:**
+
+1. **Head:** Bloodspawn (Heavy, Impenetrable, Health)
+2. **Shoulders:** Bloodspawn (Heavy, Impenetrable, Health)
+3. **Chest:** Pariah (Heavy, Impenetrable, Health)
+4. **Waist:** Pariah (Heavy, Sturdy, Health)
+5. **Hands:** Pariah (Heavy, Sturdy, Health)
+6. **Legs:** Pariah (Heavy, Sturdy, Health)
+7. **Feet:** Pariah (Heavy, Sturdy, Health)
+8. **Ring 1:** Pariah (Jewelry, Infused / Healthy, Magicka Recovery)
+9. **Ring 2:** Pariah (Jewelry, Healthy, Magicka Recovery)
+10. **Necklace:** Pariah (Jewelry, Healthy, Magicka Recovery)
+11. **Weapon 1:** Sword (1 Handed, Defending, Disease Damage)
+12. **Weapon 2:** Shield (Reinforced, Stamina / Health)
+13. **Weapon 3:** Ice Staff (Defending, Weapon Damage)
+14. **Weapon 4:** Sword (1 Handed, Defending, Disease Damage)
+
+**Champion Points Setup:**
+
+1. **Warfare (Blue) Slotables:**
+   - Ironclad
+   - Duelist’s Rebuff
+   - Unassailable
+   - Enduring Resolve
+
+2. **Fitness (Red) Slotables:**
+   - Boundless Vitality
+   - Fortified
+   - Strategic Reserve
+   - Rejuvenation
+
+**Skills:**
+
+1. **Front Bar (Sword and Shield):**
+   - Pierce Armor
+   - Heroic Slash
+   - Hardened Armor
+   - Defensive Stance
+   - Resolving Vigor
+   - Ultimate: Spell Wall
+
+2. **Back Bar (Ice Staff):**
+   - Elemental Blockade
+   - Cinder Storm
+   - Fragmented Shield
+   - Protective Plate
+   - Healing Ward
+   - Ultimate: Reviving Barrier
+
+**Traits:**
+   - **Gear Traits:**
+     - Impenetrable (for armor pieces to increase critical resistance)
+     - Sturdy (for armor pieces to reduce block cost)
+   - **Weapon Traits:**
+     - Defending (for main-hand weapon to increase resistances)
+   - **Jewelry Traits:**
+     - Infused / Healthy (for rings and necklaces to increase recovery or health as needed)
+
+**Clips to include in guide/video:**
+   - Demonstration of gear setup and switching between setups.
+   - Rotation and skill usage during a PvP battle in Cyrodiil.
+   - How to manage resources with heavy attacks and synergies.
+   - Blocking and avoiding enemy attacks.
+   - Examples of ultimate generation and usage.
+   - Demonstration of Champion Points setup and swapping slotables for different encounters.
+   - Showcasing how to use crafting traits and their importance for the build.
